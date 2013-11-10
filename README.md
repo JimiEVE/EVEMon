@@ -1,7 +1,7 @@
-EVEMon 1.81
+EVEMon 1.8.3
 ======
 
-EVEMon Dev Team is announcing the release of EVEMon 1.8.1.
+EVEMon Dev Team is announcing the release of EVEMon 1.8.3.
 
 Please report any problems in the related thread in Bug Reports forum.
 
